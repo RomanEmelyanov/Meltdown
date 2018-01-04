@@ -1,2 +1,2 @@
 # Meltdown
-Meltdown vulnerability check
+Meltdown/Spectre vulnerability check on Windows 10
